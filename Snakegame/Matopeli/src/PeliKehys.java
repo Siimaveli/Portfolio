@@ -7,7 +7,7 @@ public class PeliKehys extends JFrame {
 	
 	PeliKehys(){
 		this.add(new PeliRuutu());
-		this.setTitle("Mato");
+		this.setTitle("MatoPeli");
 		this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		this.setResizable(false);
 		this.pack();
